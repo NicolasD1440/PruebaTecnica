@@ -9,8 +9,7 @@ Este proyecto es una aplicación web de gestión de eventos, que permite crear, 
 
 - Backend: Java 17, Spring Boot, Maven
 - Frontend: React, Axios
-- Base de datos: H2 (por defecto) u otra si la configuras
-
+- Base de datos: H2 Database, memoria
 ---
 
 ## 🚀 Requisitos previos
