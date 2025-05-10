@@ -59,7 +59,7 @@ mvn spring-boot:run
 ### 3. Frontend (React)
 
 #### Ubicación del frontend:
-`/frontend-eventos` 
+`/PruebaTecnicaFront` 
 
 #### Pasos:
 
