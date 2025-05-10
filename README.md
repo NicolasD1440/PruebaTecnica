@@ -27,7 +27,7 @@ Asegúrate de tener instalado:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gestion-eventos.git
+git clone https://github.com/NicolasD1440/PruebaTecnicaFront.git
 cd gestion-eventos
 ```
 
