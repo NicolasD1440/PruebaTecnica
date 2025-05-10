@@ -24,24 +24,30 @@ Asegúrate de tener instalado:
 
 ## 🛠️ Cómo ejecutar el proyecto
 
-### 1. Clonar el repositorio
+### 1. Clonar el repositorio front
 
 ```bash
 git clone https://github.com/NicolasD1440/PruebaTecnicaFront.git
-cd gestion-eventos
+cd PruebaTecnicaFront
 ```
 
 ---
+### 1.1. Clonar el repositorio back
 
+```bash
+git clone https://github.com/NicolasD1440/PruebaTecnicaBack.git
+cd PruebaTecnicaBack
+```
+
+---
 ### 2. Backend (Spring Boot)
 
 #### Ubicación del backend:
-`/backend` (o la carpeta que contenga tu código Java)
+`/backend` 
 
 #### Pasos:
 
 ```bash
-cd backend
 mvn clean install
 mvn spring-boot:run
 ```
@@ -53,12 +59,12 @@ mvn spring-boot:run
 ### 3. Frontend (React)
 
 #### Ubicación del frontend:
-`/frontend` (o la carpeta que contiene tus componentes React)
+`/frontend-eventos` 
 
 #### Pasos:
 
 ```bash
-cd frontend
+npm install axios
 npm install
 npm start
 ```
