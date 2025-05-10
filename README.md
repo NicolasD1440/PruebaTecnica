@@ -70,7 +70,7 @@ npm start
 ## 📌 Notas
 
 - Asegúrate de que el backend y el frontend estén corriendo al mismo tiempo.
-- El backend permite CORS solo desde `http://localhost:3000` por defecto.
+
 
 
 ---
