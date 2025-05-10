@@ -43,7 +43,7 @@ cd PruebaTecnicaBack
 ### 2. Backend (Spring Boot)
 
 #### Ubicación del backend:
-`/backend` 
+`/PruebaTecnicaBack` 
 
 #### Pasos:
 
