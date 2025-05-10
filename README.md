@@ -60,6 +60,7 @@ mvn spring-boot:run
 Desde el directorio `PruebaTecnicaFront`, ejecuta:
 
 ```bash
+npm install axios
 npm install
 npm start
 ```
